@@ -66,6 +66,16 @@ namespace Mesa_de_partes_simulación
             cont_exp++;
             MessageBox.Show("Registrado y ordenado con éxito.", "Mesa de Partes", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 
