@@ -1,9 +1,0 @@
-C:\Users\Lourdes\OneDrive\Documentos\program\Mesa_de_partes_simulación\Mesa_de_partes_simulación\bin\Debug\Mesa_de_partes_simulación.exe.config
-C:\Users\Lourdes\OneDrive\Documentos\program\Mesa_de_partes_simulación\Mesa_de_partes_simulación\bin\Debug\Mesa_de_partes_simulación.exe
-C:\Users\Lourdes\OneDrive\Documentos\program\Mesa_de_partes_simulación\Mesa_de_partes_simulación\bin\Debug\Mesa_de_partes_simulación.pdb
-C:\Users\Lourdes\OneDrive\Documentos\program\Mesa_de_partes_simulación\Mesa_de_partes_simulación\obj\Debug\Mesa_de_partes_simulación.csproj.AssemblyReference.cache
-C:\Users\Lourdes\OneDrive\Documentos\program\Mesa_de_partes_simulación\Mesa_de_partes_simulación\obj\Debug\Mesa_de_partes_simulación.Properties.Resources.resources
-C:\Users\Lourdes\OneDrive\Documentos\program\Mesa_de_partes_simulación\Mesa_de_partes_simulación\obj\Debug\Mesa_de_partes_simulación.csproj.GenerateResource.cache
-C:\Users\Lourdes\OneDrive\Documentos\program\Mesa_de_partes_simulación\Mesa_de_partes_simulación\obj\Debug\Mesa_de_partes_simulación.csproj.CoreCompileInputs.cache
-C:\Users\Lourdes\OneDrive\Documentos\program\Mesa_de_partes_simulación\Mesa_de_partes_simulación\obj\Debug\Mesa_de_partes_simulación.exe
-C:\Users\Lourdes\OneDrive\Documentos\program\Mesa_de_partes_simulación\Mesa_de_partes_simulación\obj\Debug\Mesa_de_partes_simulación.pdb
